@@ -4,3 +4,4 @@ i want this to go into commit
 now this is changed again
 this is a new change
 this is change donce again for the name of coding
+this is added at bugger
